@@ -1,4 +1,4 @@
 hello this is my first dummy file
 
 
-1. CREATE AND UPDATE USER PROFILES!!!!!
+profile picture banner image. yeah so users can set their pfp now!!!!
